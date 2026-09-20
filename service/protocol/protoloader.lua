@@ -13,4 +13,5 @@ skynet.start(function()
     skynet.error("[ProtocolLoader] schemas ready slots=1/2")
 
     -- 不退出。sprotoloader Slot 依赖持有编译结果的 Service 继续存活。
-end)
+end
+)
